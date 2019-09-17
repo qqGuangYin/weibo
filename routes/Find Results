@@ -1,0 +1,100 @@
+Searching 21812 files for "\App\User"
+
+/Users/guangyin/code/weibo/app/Http/Controllers/Auth/RegisterController.php:
+   60       *
+   61       * @param  array  $data
+   62:      * @return App\Models\User
+   63       */
+   64      protected function create(array $data)
+
+/Users/guangyin/code/weibo/app/Http/Controllers/Find Results:
+    1: Searching 21811 files for "\App\User"
+    2
+    3  /Users/guangyin/code/weibo/app/Http/Controllers/Auth/RegisterController.php:
+    .
+   11    346  #52 {main}
+   12    347  "}
+   13:   348: [2019-09-17 06:10:06] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   14    349  [stacktrace]
+   15    350  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+   ..
+   17    407  #57 {main}
+   18    408  "}
+   19:   409: [2019-09-17 06:10:35] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   20    410  [stacktrace]
+   21    411  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+   ..
+   23    468  #57 {main}
+   24    469  "}
+   25:   470: [2019-09-17 06:15:44] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   26    471  [stacktrace]
+   27    472  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+   ..
+   29    641  #52 {main}
+   30    642  "}
+   31:   643: [2019-09-17 06:18:20] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   32    644  [stacktrace]
+   33    645  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+   ..
+   35    702  #57 {main}
+   36    703  "}
+   37:   704: [2019-09-17 06:21:35] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   38    705  [stacktrace]
+   39    706  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+   ..
+   41    874  #51 {main}
+   42    875  "}
+   43:   876: [2019-09-17 06:26:12] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+   44    877  [stacktrace]
+   45    878  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+
+/Users/guangyin/code/weibo/storage/logs/laravel-2019-09-17.log:
+  346  #52 {main}
+  347  "}
+  348: [2019-09-17 06:10:06] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  349  [stacktrace]
+  350  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  407  #57 {main}
+  408  "}
+  409: [2019-09-17 06:10:35] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  410  [stacktrace]
+  411  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  468  #57 {main}
+  469  "}
+  470: [2019-09-17 06:15:44] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  471  [stacktrace]
+  472  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  641  #52 {main}
+  642  "}
+  643: [2019-09-17 06:18:20] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  644  [stacktrace]
+  645  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  702  #57 {main}
+  703  "}
+  704: [2019-09-17 06:21:35] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  705  [stacktrace]
+  706  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  874  #51 {main}
+  875  "}
+  876: [2019-09-17 06:26:12] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  877  [stacktrace]
+  878  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+  990  #51 {main}
+  991  "}
+  992: [2019-09-17 06:32:13] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+  993  [stacktrace]
+  994  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+  ...
+ 1051  #57 {main}
+ 1052  "}
+ 1053: [2019-09-17 06:32:19] local.ERROR: Class '\App\User' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class '\\App\\User' not found at /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:170)
+ 1054  [stacktrace]
+ 1055  #0 /home/vagrant/code/weibo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php(157): Illuminate\\Auth\\EloquentUserProvider->createModel()
+
+16 matches across 3 files
